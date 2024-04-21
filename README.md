@@ -63,12 +63,12 @@ Ezt a parancsot választva a program automatikusan kitölt egy két soros tábl�
        <th>Fejléc 1. cella</th>
        <th>Fejléc 2. cella</th>
        <th>Fejléc 3. cella</th>
-   <tr>
+   </tr>
    <tr>
        <td>2. sor 1. cella</td>
        <td>2. sor 2. cella</td>
        <td>2. sor 3. cella</td>
-   <tr>
+   </tr>
 </table>
 ~~~
 
