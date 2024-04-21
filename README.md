@@ -49,6 +49,29 @@ Az enter lenyomásával pedig a következőképpen töltődik ki a fájlod:
 </html>
 ```
 
+**VAGY**
+
+~~~html
+!tablazat
+~~~
+
+Ezt a parancsot választva a program automatikusan kitölt egy két soros táblázatot, melynek az első sora egy fejléc:
+
+~~~html
+<table>
+    <tr>
+       <th>Fejléc 1. cella</th>
+       <th>Fejléc 2. cella</th>
+       <th>Fejléc 3. cella</th>
+   <tr>
+   <tr>
+       <td>2. sor 1. cella</td>
+       <td>2. sor 2. cella</td>
+       <td>2. sor 3. cella</td>
+   <tr>
+</table>
+~~~
+
 ## Verziók
 
 Itt találod meg, hogy pontosan miket tartalmaznak az új verziók.
