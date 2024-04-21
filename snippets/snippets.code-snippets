@@ -44,6 +44,20 @@
         ],
         "description": "Sortörés"
     },
+    "Kép leírással": {
+        "prefix": "!kep",
+        "body": [
+            "<img src='img_girl.jpg' alt='Girl in a jacket'>"
+        ],
+        "description": "Kép csak leírással"
+    },
+    "Kép leírással és méretekkel": {
+        "prefix": "!kep2",
+        "body": [
+            "<img src='img_girl.jpg' alt='Girl in a jacket' width='500' height='600'>"
+        ],
+        "description": "Kép leírással és méretekkel"
+    },
     "Táblázat": {
         "prefix": "!tablazat",
         "body": [
