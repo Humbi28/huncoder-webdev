@@ -77,8 +77,6 @@ Ezt a parancsot választva a program automatikusan kitölt egy két soros tábl�
 
 ## Verziók
 
-Itt találod meg, hogy pontosan miket tartalmaznak az új verziók.
-
 ### 0.0.1
 
 Teszt fázis, pár alap kitöltés.
