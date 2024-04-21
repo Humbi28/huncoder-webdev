@@ -31,13 +31,13 @@ This extension contributes the following settings:
 
 Calling out known issues can help limit users opening duplicate issues against your extension.
 
-## Release Notes
+## Verziók
 
-Users appreciate release notes as you update your extension.
+Itt találod meg, hogy pontosan miket tartalmaznak az új verziók.
 
 ### 0.0.1
 
-Tesz fázis, alap HTML5 doksi generálása, stílusfájl behívása.
+Teszt fázis, alap HTML5 doksi generálása, stílusfájl behívása.
 
 ---
 
