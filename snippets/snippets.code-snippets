@@ -47,16 +47,30 @@
     "Kép leírással": {
         "prefix": "!kep",
         "body": [
-            "<img src='img_girl.jpg' alt='Girl in a jacket'>"
+            "<img src='kep.png' alt='Ez a kép leírása'>"
         ],
         "description": "Kép csak leírással"
     },
     "Kép leírással és méretekkel": {
         "prefix": "!kep2",
         "body": [
-            "<img src='img_girl.jpg' alt='Girl in a jacket' width='500' height='600'>"
+            "<img src='kep.png' alt='Ez a kép leírása' width='500' height='600'>"
         ],
         "description": "Kép leírással és méretekkel"
+    },
+    "Horgony": {
+        "prefix": "!horgony",
+        "body": [
+            "<a>Ez egy horgony</a>"
+        ],
+        "description": "Horgony, szimpla <a> tag"
+    },
+    "Link": {
+        "prefix": "!link",
+        "body": [
+            "<a href='#'>Ez egy link</a>"
+        ],
+        "description": "Kattintható link"
     },
     "Táblázat": {
         "prefix": "!tablazat",
