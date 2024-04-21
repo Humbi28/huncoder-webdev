@@ -60,5 +60,3 @@ Teszt fázis, pár alap kitöltés.
 ## További segédanyagok
 
 Ha többet szeretnél tudni rólunk, [Látogass el weboldalunkra](http://huncoder.hu)
-
-**Hujber Balázs**
