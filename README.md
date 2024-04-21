@@ -43,11 +43,11 @@ Az enter lenyomásával pedig a következőképpen töltődik ki a fájlod:
 
 Itt találod meg, hogy pontosan miket tartalmaznak az új verziók.
 
-### 0.0.1
+## 0.0.1
 
 Teszt fázis, alap HTML5 kód generálása, stílusfájl behívása.
 
-## Parancsok listája
+### Parancsok listája
 
 **!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.  
 **!komment** - HTML komment.  
