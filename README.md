@@ -9,9 +9,11 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 ## Parancsok listája
 
 **!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.  
-**!horgony** - Szimpla a tag.    
+**!dolt** - Félkövér szöveg definiálása.  
+**!horgony** - Szimpla a tag.  
+**!dolt** - Dőlt szöveg definiálása..  
 **!kep** - Kép csak leírással.  
-**!kep2** - Kép leírással és méretekkel.    
+**!kep2** - Kép leírással és méretekkel.  
 **!link** - Kattintható link.  
 **!komment** - HTML komment.  
 **!sortores** - Sortörés.  
