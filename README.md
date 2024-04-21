@@ -51,7 +51,7 @@ Teszt fázis, alap HTML5 kód generálása, stílusfájl behívása.
 
 **!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.  
 **!komment** - HTML komment.  
-**!sortores** - Sortorés.  
+**!sortores** - Sortörés.  
 **!stilusfajl** - Stílusfájlt behívó sor generálása.  
 **!tablazat** - Két soros táblázat, melynek első sora fejléc (th), második sora sima sor (td).
 
