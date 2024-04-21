@@ -65,6 +65,20 @@
         ],
         "description": "Horgony, szimpla <a> tag"
     },
+    "Félkövér": {
+        "prefix": "!felkover",
+        "body": [
+            "<b>Ez a szöveg félkövér</b>"
+        ],
+        "description": "Félkövér szöveg definiálása"
+    },
+    "Dőlt": {
+        "prefix": "!dolt",
+        "body": [
+            "<i>Ez a szöveg dőlt</i>"
+        ],
+        "description": "Dőlt szöveg definiálása"
+    },
     "Link": {
         "prefix": "!link",
         "body": [
