@@ -8,6 +8,14 @@ A HunCoder WebDev egy Visual Studio Code-ba telepíthető automatikus kitöltő 
 
 Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az összes parancsot, amit használhatsz.
 
+## Parancsok listája
+
+**!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.  
+**!komment** - HTML komment.  
+**!sortores** - Sortörés.  
+**!stilusfajl** - Stílusfájlt behívó sor generálása.  
+**!tablazat** - Két soros táblázat, melynek első sora fejléc (th), második sora sima sor (td).
+
 ## Példa
 
 Ahhoz, hogy ne kelljen legépelni minden új HTML dokumentumba a kihagyhatatlan alap tageket (DOCTYPE, html, head,
@@ -39,21 +47,13 @@ Az enter lenyomásával pedig a következőképpen töltődik ki a fájlod:
 </html>
 ```
 
-## Verziók
+### Verziók
 
 Itt találod meg, hogy pontosan miket tartalmaznak az új verziók.
 
 ## 0.0.1
 
-Teszt fázis, alap HTML5 kód generálása, stílusfájl behívása.
-
-### Parancsok listája
-
-**!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.  
-**!komment** - HTML komment.  
-**!sortores** - Sortörés.  
-**!stilusfajl** - Stílusfájlt behívó sor generálása.  
-**!tablazat** - Két soros táblázat, melynek első sora fejléc (th), második sora sima sor (td).
+Teszt fázis, pár alap kitöltés.
 
 ---
 
