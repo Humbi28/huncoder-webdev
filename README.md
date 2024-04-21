@@ -1,4 +1,4 @@
-# HunCoder
+# HunCoder WebDev
 
 A HunCoder WebDev egy Visual Studio Code-ba telepíthető automatikus kitöltő (jelenleg még csak) HTML fájlokhoz. Kezdő webfejleszők munkáját szeretnénk meggyorsítani, behívható magyar parancsokkal, amik automatikusan kitöltik a megfelelő HTML tageket.
 
