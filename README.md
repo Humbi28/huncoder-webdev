@@ -14,6 +14,7 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 **!dolt** - Dőlt szöveg definiálása..  
 **!kep** - Kép csak leírással.  
 **!kep2** - Kép leírással és méretekkel.  
+**!lablec** - Oldal lábléce.  
 **!link** - Kattintható link.  
 **!komment** - HTML komment.  
 **!sortores** - Sortörés.  
