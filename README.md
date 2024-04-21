@@ -11,6 +11,7 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 **!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.  
 **!bekezdes** - Bekezdés.  
 **!dolt** - Félkövér szöveg definiálása.  
+**!fejlec** - Oldal fejléce.  
 **!horgony** - Szimpla a tag.  
 **!dolt** - Dőlt szöveg definiálása..  
 **!kep** - Kép csak leírással.  
