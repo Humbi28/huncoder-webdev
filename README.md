@@ -47,11 +47,11 @@ Az enter lenyomásával pedig a következőképpen töltődik ki a fájlod:
 </html>
 ```
 
-### Verziók
+## Verziók
 
 Itt találod meg, hogy pontosan miket tartalmaznak az új verziók.
 
-## 0.0.1
+### 0.0.1
 
 Teszt fázis, pár alap kitöltés.
 
