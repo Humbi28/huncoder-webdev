@@ -39,6 +39,11 @@ Itt találod meg, hogy pontosan miket tartalmaznak az új verziók.
 
 Teszt fázis, alap HTML5 doksi generálása, stílusfájl behívása.
 
+## Parancsok listája
+
+**!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.
+**!stilusfajl** - Stílusfájlt behívó sor generálása.
+
 ---
 
 ## Working with Markdown
