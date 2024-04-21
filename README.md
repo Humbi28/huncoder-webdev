@@ -11,7 +11,7 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 ## Parancsok listája
 
 **!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.  
-**!horgony** - Szimpla <a> tag.    
+**!horgony** - Szimpla a tag.    
 **!kep** - Kép csak leírással.  
 **!kep2** - Kép leírással és méretekkel.    
 **!link** - Kattintható link.  
