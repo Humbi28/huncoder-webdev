@@ -29,5 +29,37 @@
             "<link rel='stylesheet' href='styles.css'>"
         ],
         "description": "Stílusfájl behívása"
+    },
+    "Komment": {
+        "prefix": "!komment",
+        "body": [
+            "<!-- EZ EGY KOMMENT -->"
+        ],
+        "description": "HTML komment"
+    },
+    "Sortörés": {
+        "prefix": "!sortores",
+        "body": [
+            "<br>"
+        ],
+        "description": "Sortörés"
+    },
+    "Táblázat": {
+        "prefix": "!tablazat",
+        "body": [
+            "<table>",
+            "   <tr>",
+            "       <th>Fejléc 1. cella</th>",
+            "       <th>Fejléc 2. cella</th>",
+            "       <th>Fejléc 3. cella</th>",
+            "   <tr>",
+            "   <tr>",
+            "       <td>2. sor 1. cella</td>",
+            "       <td>2. sor 2. cella</td>",
+            "       <td>2. sor 3. cella</td>",
+            "   <tr>",
+            "</table>"
+        ],
+        "description": "Sortörés"
     }
 }
