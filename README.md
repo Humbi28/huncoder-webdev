@@ -28,12 +28,14 @@ Az enter lenyomásával pedig a következőképpen töltődik ki a fájlod:
 
     <!-- AZ OLDALLAL KAPCSOLATOS FONTOS ADATOK -->
     <meta charset='UTF-8' />
-    <meta name='description' content='Rövid leírás az oldal tartalmáról' />
+    <meta name='description' content='Rövid leírás az oldal tartalmáról'/>
     <meta name='keywords' content='Keresést, Segítő, Szavak, Vesszővel, Elválasztva'/>
-    <meta name='author' content='Neved' />
-    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <meta name='author' content='Neved'/>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
   </head>
-  <body></body>
+  <body>
+
+  </body>
 </html>
 ```
 
