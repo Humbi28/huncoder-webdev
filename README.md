@@ -10,6 +10,12 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 
 **!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.  
 **!bekezdes** - Bekezdés.  
+**!cim1** - 1. szintű cím.  
+**!cim2** - 2. szintű cím.  
+**!cim3** - 3. szintű cím.  
+**!cim4** - 4. szintű cím.  
+**!cim5** - 5. szintű cím.  
+**!cim6** - 6. szintű cím.  
 **!dolt** - Félkövér szöveg definiálása.  
 **!fejlec** - Oldal fejléce.  
 **!bomg** - Szimpla gomb.  

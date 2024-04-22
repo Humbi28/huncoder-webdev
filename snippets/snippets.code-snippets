@@ -118,6 +118,48 @@
         ],
         "description": "Szimpla gomb"
     },
+    "1. szintű cím": {
+        "prefix": "!cim1",
+        "body": [
+            "<h1>Ez egy 1. szintű cím</h1>"
+        ],
+        "description": "1. szintű cím"
+    },
+    "2. szintű cím": {
+        "prefix": "!cim2",
+        "body": [
+            "<h1>Ez egy 2. szintű cím</h2>"
+        ],
+        "description": "2. szintű cím"
+    },
+    "3. szintű cím": {
+        "prefix": "!cim3",
+        "body": [
+            "<h3>Ez egy 3. szintű cím</h3>"
+        ],
+        "description": "3. szintű cím"
+    },
+    "4. szintű cím": {
+        "prefix": "!cim4",
+        "body": [
+            "<h4>Ez egy 4. szintű cím</h4>"
+        ],
+        "description": "4. szintű cím"
+    },
+    "5. szintű cím": {
+        "prefix": "!cim5",
+        "body": [
+            "<h1>Ez egy 5. szintű cím</h5>"
+        ],
+        "description": "5. szintű cím"
+    },
+    "6. szintű cím": {
+        "prefix": "!cim6",
+        "body": [
+            "<h6>Ez egy 6. szintű cím</h6>"
+        ],
+        "description": "6. szintű cím"
+    },
     "Lábléc": {
         "prefix": "!lablec",
         "body": [
