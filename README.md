@@ -65,6 +65,20 @@ Az enter lenyomásával pedig a következőképpen töltődik ki a fájlod:
 
 **VAGY**
 
+HTML5-ben hat szinten tudunk címet létrehozni az oldalon. Első szintű címhez elég begépelni a következőt:
+
+~~~html
+!cim1
+~~~
+
+Ennek köszönhetően kitöltődik egy első szintű cím az oldalunkon:
+
+~~~html
+<h1>Ez egy 1. szintű cím</h1>
+~~~
+
+**VAGY**
+
 ~~~html
 !tablazat
 ~~~
