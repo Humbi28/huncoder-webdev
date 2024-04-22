@@ -79,6 +79,13 @@
         ],
         "description": "Dőlt szöveg definiálása"
     },
+    "Aláhúzott": {
+        "prefix": "!alahuzott",
+        "body": [
+            "<u>Ez a szöveg aláhúzott</u>"
+        ],
+        "description": "Aláhúzott szöveg definiálása"
+    },
     "Link": {
         "prefix": "!link",
         "body": [

@@ -9,6 +9,7 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 ## Parancsok listája
 
 **!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.  
+**!alahuzott** - Aláhúzott szöveg definiálása.  
 **!bekezdes** - Bekezdés.  
 **!cim1** - 1. szintű cím.  
 **!cim2** - 2. szintű cím.  
