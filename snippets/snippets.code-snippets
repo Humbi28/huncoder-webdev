@@ -95,6 +95,29 @@
         ],
         "description": "Oldal Fejléce"
     },
+    "Űrlap": {
+        "prefix": "!urlap",
+        "body": [
+            "<form>",
+            "",
+            "</form>"
+        ],
+        "description": "Űrlap definiálása"
+    },
+    "Vízszintes vonal": {
+        "prefix": "!vonal",
+        "body": [
+            "<hr>"
+        ],
+        "description": "Vízszintes vonal"
+    },
+    "Gomb": {
+        "prefix": "!gomb",
+        "body": [
+            "<button>Ez egy gomb</button>"
+        ],
+        "description": "Szimpla gomb"
+    },
     "Lábléc": {
         "prefix": "!lablec",
         "body": [

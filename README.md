@@ -12,6 +12,7 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 **!bekezdes** - Bekezdés.  
 **!dolt** - Félkövér szöveg definiálása.  
 **!fejlec** - Oldal fejléce.  
+**!bomg** - Szimpla gomb.  
 **!horgony** - Szimpla a tag.  
 **!dolt** - Dőlt szöveg definiálása..  
 **!kep** - Kép csak leírással.  
@@ -21,7 +22,9 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 **!komment** - HTML komment.  
 **!sortores** - Sortörés.  
 **!stilusfajl** - Stílusfájlt behívó sor generálása.  
-**!tablazat** - Két soros táblázat, melynek első sora fejléc (th), második sora sima sor (td).
+**!tablazat** - Két soros táblázat, melynek első sora fejléc (th), második sora sima sor (td).  
+**!urlap** - Űrlap definiálása.  
+**!vonal** - Vízszintes vonal.
 
 ## Példa
 
