@@ -128,7 +128,7 @@
     "2. szintű cím": {
         "prefix": "!cim2",
         "body": [
-            "<h1>Ez egy 2. szintű cím</h2>"
+            "<h2>Ez egy 2. szintű cím</h2>"
         ],
         "description": "2. szintű cím"
     },
@@ -149,7 +149,7 @@
     "5. szintű cím": {
         "prefix": "!cim5",
         "body": [
-            "<h1>Ez egy 5. szintű cím</h5>"
+            "<h5>Ez egy 5. szintű cím</h5>"
         ],
         "description": "5. szintű cím"
     },
