@@ -70,7 +70,7 @@
         "body": [
             "<b>Ez a szöveg félkövér</b>"
         ],
-        "description": "Félkövér szöveg definiálása"
+        "description": "Félkövér szöveg definiálása",
     },
     "Dőlt": {
         "prefix": "!dolt",
