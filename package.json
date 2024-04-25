@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.88.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Humbi28/huncoder-webdev.git"
+  },
+  "icon": "icon.png",
   "categories": [
     "Snippets"
   ],
