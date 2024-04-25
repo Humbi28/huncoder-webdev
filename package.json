@@ -1,6 +1,7 @@
 {
   "name": "huncoder-webdev",
   "displayName": "HunCoder WebDev",
+  "publisher": "Hujbre Balázs",
   "description": "HTML kitöltő magyar parancsokkal",
   "version": "0.0.1",
   "engines": {
