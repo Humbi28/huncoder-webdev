@@ -183,6 +183,28 @@
         ],
         "description": "Bekezdés"
     },
+    "Számozott lista": {
+        "prefix": "!szamozottlista",
+        "body": [
+            "<ol>",
+            "   <li>Listaelem</li>",
+            "   <li>Listaelem</li>",
+            "   <li>Listaelem</li>",
+            "</ol>"
+        ],
+        "description": "Számozott lista"
+    },
+    "Nem számozott lista": {
+        "prefix": "!lista",
+        "body": [
+            "<ul>",
+            "   <li>Listaelem</li>",
+            "   <li>Listaelem</li>",
+            "   <li>Listaelem</li>",
+            "</ul>"
+        ],
+        "description": "Nem számozott lista"
+    },
     "Táblázat": {
         "prefix": "!tablazat",
         "body": [

@@ -26,8 +26,10 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 **!kep2** - Kép leírással és méretekkel.  
 **!lablec** - Oldal lábléce.  
 **!link** - Kattintható link.  
+**!lista** - Nem számozott lista.  
 **!komment** - HTML komment.  
 **!sortores** - Sortörés.  
+**!szamozottlista** - Számozott lista.  
 **!stilusfajl** - Stílusfájlt behívó sor generálása.  
 **!tablazat** - Két soros táblázat, melynek első sora fejléc (th), második sora sima sor (td).  
 **!urlap** - Űrlap definiálása.  
