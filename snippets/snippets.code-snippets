@@ -222,5 +222,16 @@
             "</table>"
         ],
         "description": "Sortörés"
+    },
+    "Videó": {
+        "prefix": "!video",
+        "body": [
+            "<video width='320' height='240' controls>",
+            "   <source src='fájlneve.mp4' type='video/mp4'>",
+            "   <source src='fájlneve.ogg' type='video/ogg'>",
+            "   A böngésződ nem támogatja a beépített videólejátszót.",
+            "</video>"
+        ],
+        "description": "Videólejátszó"
     }
 }

@@ -33,6 +33,7 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 **!stilusfajl** - Stílusfájlt behívó sor generálása.  
 **!tablazat** - Két soros táblázat, melynek első sora fejléc (th), második sora sima sor (td).  
 **!urlap** - Űrlap definiálása.  
+**!video** - Beágyazott videólejátszó.  
 **!vonal** - Vízszintes vonal.
 
 ## Példa
@@ -104,6 +105,10 @@ Ezt a parancsot választva a program automatikusan kitölt egy két soros tábl�
 ~~~
 
 ## Verziók
+
+### 0.0.2
+
+Videó tag, update teszt.
 
 ### 0.0.1
 
