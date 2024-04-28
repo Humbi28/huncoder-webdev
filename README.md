@@ -104,15 +104,11 @@ Ezt a parancsot választva a program automatikusan kitölt egy két soros tábl�
 </table>
 ~~~
 
-## Verziók
+## Update
 
-### 0.0.2
+### 0.3
 
-Videó tag, update teszt.
-
-### 0.0.1
-
-Teszt fázis, pár alap kitöltés.
+Videó tag, frissítés teszt.
 
 ---
 
