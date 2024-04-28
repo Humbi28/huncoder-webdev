@@ -3,7 +3,7 @@
   "displayName": "HunCoder WebDev",
   "publisher": "HunCoder",
   "description": "HTML kitöltő magyar parancsokkal",
-  "version": "0.2.0",
+  "version": "0.2",
   "engines": {
     "vscode": "^1.88.0"
   },

@@ -106,7 +106,7 @@ Ezt a parancsot választva a program automatikusan kitölt egy két soros tábl�
 
 ## Verziók
 
-### 0.0.2
+### 0.2
 
 Videó tag, update teszt.
 
