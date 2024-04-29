@@ -119,7 +119,7 @@ Ezt a parancsot választva a program automatikusan kitölt egy két soros tábl�
 
 Pár bevitel űrlaphoz. (sima szöveg, jelszó dátum, email, szín, sima gomb, küldés gomb, url, fájl)
 
-## 0.2-0.3
+### 0.2-0.3
 
 Frissítés tesztelés, videólejátszó.
 
