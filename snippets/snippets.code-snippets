@@ -233,5 +233,68 @@
             "</video>"
         ],
         "description": "Videólejátszó"
+    },
+    "Szöveg bevitel": {
+        "prefix": "!be-szoveg",
+        "body": [
+            "<input type='text'>",
+        ],
+        "description": "Szöveg bevitel"
+    },
+    "Dátum bevitel": {
+        "prefix": "!be-datum",
+        "body": [
+            "<input type='date'>",
+        ],
+        "description": "Dátum bevitel"
+    },
+    "Email bevitel": {
+        "prefix": "!be-email",
+        "body": [
+            "<input type='email'>",
+        ],
+        "description": "Dátum bevitel"
+    },
+    "Szín bevitel": {
+        "prefix": "!be-szin",
+        "body": [
+            "<input type='color'>",
+        ],
+        "description": "Szín bevitel"
+    },
+    "Gomb bevitel": {
+        "prefix": "!be-gomb",
+        "body": [
+            "<input type='button'>",
+        ],
+        "description": "Gomb bevitel"
+    },
+    "Küldés": {
+        "prefix": "!kuldes",
+        "body": [
+            "<input type='submit'>",
+        ],
+        "description": "Küldés"
+    },
+    "Jelszó bevitel": {
+        "prefix": "!be-jelszo",
+        "body": [
+            "<input type='password'>",
+        ],
+        "description": "Jelszó bevitel"
+    },
+    "URL bevitel": {
+        "prefix": "!be-url",
+        "body": [
+            "<input type='url'>",
+        ],
+        "description": "URL bevitel"
+    },
+    "Fájl bevitel": {
+        "prefix": "!be-fajl",
+        "body": [
+            "<input type='file'>",
+        ],
+        "description": "Fájl bevitel"
     }
 }
