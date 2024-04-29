@@ -121,7 +121,7 @@ Pár bevitel űrlaphoz. (sima szöveg, jelszó dátum, email, szín, sima gomb, 
 
 ## 0.2-0.3
 
-Frissítés tesztelés, videólejátszó
+Frissítés tesztelés, videólejátszó.
 
 ### 0.0.1
 
