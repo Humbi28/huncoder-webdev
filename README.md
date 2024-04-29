@@ -10,6 +10,14 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 
 **!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.  
 **!alahuzott** - Aláhúzott szöveg definiálása.  
+**!be-datum** - Dátum beviteli mező.  
+**!be-email** - Email beviteli mező.  
+**!be-fajl** - Fájl beviteli mező.  
+**!be-gomb** - Gomb "bevitel" (inputban definiált gomb).  
+**!be-jelszo** - Jelszó bevitel.  
+**!be-url** - URL bevitel.  
+**!be-szin** - Szín bevitel.  
+**!be-szoveg** - Sima szöveg beviteli mező.  
 **!bekezdes** - Bekezdés.  
 **!cim1** - 1. szintű cím.  
 **!cim2** - 2. szintű cím.  
@@ -19,11 +27,12 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 **!cim6** - 6. szintű cím.  
 **!dolt** - Félkövér szöveg definiálása.  
 **!fejlec** - Oldal fejléce.  
-**!bomg** - Szimpla gomb.  
+**!gomb** - Szimpla gomb.  
 **!horgony** - Szimpla a tag.  
 **!dolt** - Dőlt szöveg definiálása..  
 **!kep** - Kép csak leírással.  
 **!kep2** - Kép leírással és méretekkel.  
+**!kuldes** - Küldés gomb űrlaphoz.  
 **!lablec** - Oldal lábléce.  
 **!link** - Kattintható link.  
 **!lista** - Nem számozott lista.  
@@ -104,11 +113,19 @@ Ezt a parancsot választva a program automatikusan kitölt egy két soros tábl�
 </table>
 ~~~
 
-## Update
+## Verziók
 
-### 0.3
+### 0.3.1
 
-Videó tag, frissítés teszt.
+Pár bevitel űrlaphoz. (sima szöveg, jelszó dátum, email, szín, sima gomb, küldés gomb, url, fájl)
+
+## 0.2-0.3
+
+Frissítés tesztelés, videólejátszó
+
+### 0.0.1
+
+Teszt fázis
 
 ---
 

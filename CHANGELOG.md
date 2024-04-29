@@ -1,3 +1,3 @@
-# 0.2
+# 0.3.1
 
-Videó, update teszt.
+Pár bevitel űrlaphoz. (sima szöveg, jelszó dátum, email, szín, sima gomb, küldés gomb, url, fájl)
