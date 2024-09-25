@@ -1,4 +1,4 @@
-# HunCoder WebDev
+# HunCoder WebDev HTML
 
 A HunCoder WebDev egy Visual Studio Code-ba telepíthető automatikus kitöltő (jelenleg még csak) HTML fájlokhoz. Kezdő webfejleszők munkáját szeretnénk meggyorsítani, behívható magyar parancsokkal, amik automatikusan kitöltik a megfelelő HTML tageket.
 
@@ -10,37 +10,47 @@ Egy felkiáltójel beírásával a Visual Studio Code ki fogja listázni az öss
 
 **!html5** - Alap HTML5 dokumentum generálása az oldal címével és a fontos meta tagekkel.  
 **!alahuzott** - Aláhúzott szöveg definiálása.  
+**!audio** - Audio fájl lejátszás.  
+**!athuzott** - Áthúzott szöveg definiálása.  
 **!be-datum** - Dátum beviteli mező.  
 **!be-email** - Email beviteli mező.  
 **!be-fajl** - Fájl beviteli mező.  
 **!be-gomb** - Gomb "bevitel" (inputban definiált gomb).  
 **!be-jelszo** - Jelszó bevitel.  
+**!be-kuldes** - Küldés gomb űrlaphoz.  
 **!be-url** - URL bevitel.  
+**!be-szam** - Szám bevitel.  
 **!be-szin** - Szín bevitel.  
 **!be-szoveg** - Sima szöveg beviteli mező.  
 **!bekezdes** - Bekezdés.  
+**!cikk** - Cikk.  
 **!cim1** - 1. szintű cím.  
 **!cim2** - 2. szintű cím.  
 **!cim3** - 3. szintű cím.  
 **!cim4** - 4. szintű cím.  
 **!cim5** - 5. szintű cím.  
 **!cim6** - 6. szintű cím.  
+**!cimke** - Címke űrlaphoz (label).  
 **!dolt** - Félkövér szöveg definiálása.  
 **!fejlec** - Oldal fejléce.  
 **!gomb** - Szimpla gomb.  
 **!horgony** - Szimpla a tag.  
-**!dolt** - Dőlt szöveg definiálása..  
+**!dolt** - Dőlt szöveg definiálása.  
+**!jsfajl** - Javascript fájl behívása.  
 **!kep** - Kép csak leírással.  
 **!kep2** - Kép leírással és méretekkel.  
-**!kuldes** - Küldés gomb űrlaphoz.  
+**!komment** - HTML komment.  
 **!lablec** - Oldal lábléce.  
 **!link** - Kattintható link.  
 **!lista** - Nem számozott lista.  
-**!komment** - HTML komment.  
+**!navigacio** - Navigációs menü kijelölése.  
+**!nav-menu** - Navigációs menü példa.  
 **!sortores** - Sortörés.  
-**!szamozottlista** - Számozott lista.  
 **!stilusfajl** - Stílusfájlt behívó sor generálása.  
+**!szamozottlista** - Számozott lista.  
+**!szekcio** - Szekció (section)  
 **!tablazat** - Két soros táblázat, melynek első sora fejléc (th), második sora sima sor (td).  
+**!tartalom-szekcio** - Tartalom szekció (div).  
 **!urlap** - Űrlap definiálása.  
 **!video** - Beágyazott videólejátszó.  
 **!vonal** - Vízszintes vonal.
@@ -59,20 +69,20 @@ Az enter lenyomásával pedig a következőképpen töltődik ki a fájlod:
 ```html
 <!DOCTYPE html>
 <html>
-  <head>
-    <!-- ITT ADHATOD MEG AZ OLDAL NEVÉT -->
-    <title>Oldal neve</title>
+    <head>
+      <!-- ITT ADHATOD MEG AZ OLDAL NEVÉT -->
+      <title>Oldal neve</title>
 
-    <!-- AZ OLDALLAL KAPCSOLATOS FONTOS ADATOK -->
-    <meta charset='UTF-8' />
-    <meta name='description' content='Rövid leírás az oldal tartalmáról'/>
-    <meta name='keywords' content='Keresést, Segítő, Szavak, Vesszővel, Elválasztva'/>
-    <meta name='author' content='Neved'/>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
-  </head>
-  <body>
+      <!-- AZ OLDALLAL KAPCSOLATOS FONTOS ADATOK -->
+      <meta charset='UTF-8' />
+      <meta name='description' content='Rövid leírás az oldal tartalmáról'/>
+      <meta name='keywords' content='Keresést, Segítő, Szavak, Vesszővel, Elválasztva'/>
+      <meta name='author' content='Neved'/>
+      <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+    </head>
+    <body>
 
-  </body>
+    </body>
 </html>
 ```
 
@@ -89,6 +99,25 @@ Ennek köszönhetően kitöltődik egy első szintű cím az oldalunkon:
 ~~~html
 <h1>Ez egy 1. szintű cím</h1>
 ~~~
+
+**VAGY**
+
+~~~html
+!nav-menu
+~~~
+
+Példa navigációs menü elhelyezése:
+
+~~~html
+<nav>
+    <ul>
+        <li><a href='#'>Menüpont</a></li>
+        <li><a href='#'>Menüpont</a></li>
+        <li><a href='#'>Menüpont</a></li>
+    </ul>
+</nav>
+~~~
+
 
 **VAGY**
 
@@ -113,22 +142,14 @@ Ezt a parancsot választva a program automatikusan kitölt egy két soros tábl�
 </table>
 ~~~
 
-## Verziók
+## Új verzió
 
-### 0.3.1
+### 0.3.6
 
-Pár bevitel űrlaphoz. (sima szöveg, jelszó dátum, email, szín, sima gomb, küldés gomb, url, fájl)
-
-### 0.2-0.3
-
-Frissítés tesztelés, videólejátszó.
-
-### 0.0.1
-
-Teszt fázis
+Form küldés, readme update
 
 ---
 
-## További segédanyagok
+## CSS kitöltő
 
-Ha többet szeretnél tudni rólunk, [Látogass el weboldalunkra](http://huncoder.hu)
+Használd CSS kitöltőnket a gyorsabb munkáért. [HTML kitöltő](https://marketplace.visualstudio.com/items?itemName=HunCoder.huncoder-webdev-css)

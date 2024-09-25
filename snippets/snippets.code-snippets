@@ -30,6 +30,14 @@
         ],
         "description": "Stílusfájl behívása"
     },
+    "Javascript fájl behívása": {
+        "prefix": "!jsfajl",
+        "body": [
+            "<!-- Javascript behívása -->",
+            "<script src='script.js'></script>"
+        ],
+        "description": "Javascript fájl behívása"
+    },
     "Komment": {
         "prefix": "!komment",
         "body": [
@@ -65,6 +73,29 @@
         ],
         "description": "Horgony, szimpla <a> tag"
     },
+    "Navigáció": {
+        "prefix": "!navigacio",
+        "body": [
+            "<nan>",
+            "",
+            "</nav>"
+        ],
+        "description": "Navigációs menü"
+    },
+    "Navigációs menü példa": {
+        "prefix": "!nav-menu",
+        "body": [
+            "<nav>",
+            "   <ul>",
+            "       <li><a href='#'>Menüpont</a></li>",
+            "       <li><a href='#'>Menüpont</a></li>",
+            "       <li><a href='#'>Menüpont</a></li>",
+            "   </ul>",
+            "</nav>"
+        ],
+        "description": "Navigációs menü példa"
+    },
+    /* Szöveg formázás */
     "Félkövér": {
         "prefix": "!felkover",
         "body": [
@@ -85,6 +116,13 @@
             "<u>Ez a szöveg aláhúzott</u>"
         ],
         "description": "Aláhúzott szöveg definiálása"
+    },
+    "Áthúzott": {
+        "prefix": "!athuzott",
+        "body": [
+            "<del>Ez a szöveg áthúzott</del>"
+        ],
+        "description": "Áthuzott szöveg definiálása"
     },
     "Link": {
         "prefix": "!link",
@@ -183,6 +221,7 @@
         ],
         "description": "Bekezdés"
     },
+    /* Listák */
     "Számozott lista": {
         "prefix": "!szamozottlista",
         "body": [
@@ -205,6 +244,7 @@
         ],
         "description": "Nem számozott lista"
     },
+    /* Táblázat */
     "Táblázat": {
         "prefix": "!tablazat",
         "body": [
@@ -233,6 +273,14 @@
             "</video>"
         ],
         "description": "Videólejátszó"
+    },
+    /* Űrlap */
+    "Címke": {
+        "prefix": "!cimke",
+        "body": [
+            "<label>Ez egy címke</label>",
+        ],
+        "description": "Címke"
     },
     "Szöveg bevitel": {
         "prefix": "!be-szoveg",
@@ -270,7 +318,7 @@
         "description": "Gomb bevitel"
     },
     "Küldés": {
-        "prefix": "!kuldes",
+        "prefix": "!be-kuldes",
         "body": [
             "<input type='submit'>",
         ],
@@ -296,5 +344,50 @@
             "<input type='file'>",
         ],
         "description": "Fájl bevitel"
+    },
+    "Szám bevitel": {
+        "prefix": "!be-szam",
+        "body": [
+            "<input type='number'>",
+        ],
+        "description": "Szám bevitel"
+    },
+    "Szekció": {
+        "prefix": "!szekcio",
+        "body": [
+            "<section>",
+            "",
+            "</section>",
+        ],
+        "description": "Szekció"
+    },
+    "Tartalom szekció": {
+        "prefix": "!tartalom-szekcio",
+        "body": [
+            "<div>",
+            "",
+            "</div>",
+        ],
+        "description": "Tartalom szekció"
+    },
+    "Audió": {
+        "prefix": "!audio",
+        "body": [
+            "<audio controls>",
+            "   <source src='fájlneve.ogg' type='audio/ogg'>",
+            "   <source src='fájlneve.mp3' type='audio/mpeg'>",
+            "   A böngésződ nem támogatja az audió lejátszást.",
+            "</div>",
+        ],
+        "description": "Audio lejátszó"
+    },
+    "Cikk": {
+        "prefix": "!cikk",
+        "body": [
+            "<article>",
+            "   <p>Ez egy cikk</p>",
+            "</article>",
+        ],
+        "description": "Cikk elhelyezése az oldalon"
     }
 }

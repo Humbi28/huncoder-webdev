@@ -1,9 +1,9 @@
 {
   "name": "huncoder-webdev",
-  "displayName": "HunCoder WebDev",
+  "displayName": "HunCoder WebDev HTML",
   "publisher": "HunCoder",
   "description": "HTML kitöltő magyar parancsokkal",
-  "version": "0.3.1",
+  "version": "0.3.6",
   "engines": {
     "vscode": "^1.88.0"
   },
