@@ -1,6 +1,6 @@
 # HunCoder WebDev HTML
 
-A HunCoder WebDev egy Visual Studio Code-ba telepíthető automatikus kitöltő (jelenleg még csak) HTML fájlokhoz. Kezdő webfejleszők munkáját szeretnénk meggyorsítani, behívható magyar parancsokkal, amik automatikusan kitöltik a megfelelő HTML tageket.
+A HunCoder WebDev egy Visual Studio Code-ba telepíthető automatikus kitöltő HTML fájlokhoz. Kezdő webfejleszők munkáját szeretnénk meggyorsítani, behívható magyar parancsokkal, amik automatikusan kitöltik a megfelelő HTML tageket.
 
 ## Használat
 
@@ -153,3 +153,7 @@ Form küldés, readme update
 ## CSS kitöltő
 
 Használd CSS kitöltőnket a gyorsabb munkáért. [HTML kitöltő](https://marketplace.visualstudio.com/items?itemName=HunCoder.huncoder-webdev-css)
+
+## Weboldalunk
+
+Tudnivalókért és további munkáinkért látogass el a weboldalunkra: [HunCoder.hu](http://huncoder.hu)
